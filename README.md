@@ -2,6 +2,7 @@
 
 This is an example to follow along with the youtube video found here:
 
+[![Watch the video](https://img.youtube.com/vi/lCs9EriXnY8/default.jpg)](https://youtu.be/lCs9EriXnY8)
 
 We will be using the python StreamLit to create a simple
 project included in this repo as ```index.py``` to showcase

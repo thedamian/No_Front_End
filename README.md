@@ -14,3 +14,14 @@ In this example we'll be using the world famous Sample API and their [Coffee lis
 
 Definately check out the [StreamLit Cheat sheet ](https://cheat-sheet.streamlit.app/) 
 
+How to use it locally: 
+
+Install dependancies
+```
+python -m venv venv           # or create a new enviroment with anaconda
+pip install requirements.txt  # which only installs streamlit and all it's requirements
+```
+run it: 
+```
+streamlit run index.py
+```

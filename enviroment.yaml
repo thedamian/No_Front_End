@@ -1,9 +1,12 @@
 # I like the python -m so I'm naming the envioroment the same
-name: venv
+name: no_front_end
+
+channels:
+  - conda-forge
 
 dependencies:
-  - python=3.11
+  - python >=3.8
+  # - python >=3.9,<3.11
   - streamlit
-  - pip:
-    - git+https://github.com/danreeves/wagtailgmaps
-    # - git+https://github.com/danreeves/wagtailgmaps@3.0.0
+  # - pip:
+  #   - git+https://github.com/danreeves/wagtailgmaps

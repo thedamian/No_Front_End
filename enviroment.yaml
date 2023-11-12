@@ -1,0 +1,9 @@
+# I like the python -m so I'm naming the envioroment the same
+name: venv
+
+dependencies:
+  - python=3.11
+  - streamlit
+  - pip:
+    - git+https://github.com/danreeves/wagtailgmaps
+    # - git+https://github.com/danreeves/wagtailgmaps@3.0.0

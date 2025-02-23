@@ -25,3 +25,7 @@ run it:
 ```
 streamlit run index.py
 ```
+
+Of course if you're using uv you can add uv before any of these commands. 
+
+For example to start it once you've "uv pip install -r requirements.txt" and "uv venv" to start the virtual enviroments, then you can "uv run streamlit run index.py --server.port 5000" to get it running locally.

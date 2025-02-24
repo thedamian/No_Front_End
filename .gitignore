@@ -1,0 +1,5 @@
+venv/
+myvenv/
+no_front_end/
+.vercel
+.venv

@@ -1,0 +1,12 @@
+# I like the python -m so I'm naming the envioroment the same
+name: no_front_end
+
+channels:
+  - conda-forge
+
+dependencies:
+  - python >=3.8
+  # - python >=3.9,<3.11
+  - streamlit
+  # - pip:
+  #   - git+https://github.com/danreeves/wagtailgmaps

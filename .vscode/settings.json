@@ -1,0 +1,8 @@
+{
+    "editor.fontFamily": "\"CaskaydiaCove Nerd Font\",\"MesloLGM Nerd Font\",\"monospace\"",
+    "python.testing.pytestArgs": [
+        "."
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestEnabled": true
+}

@@ -5,8 +5,8 @@ channels:
   - conda-forge
 
 dependencies:
-  - python >=3.8
-  # - python >=3.9,<3.11
+  - python >=3.11
+    # - python >=3.9,<3.11
   - streamlit
   # - pip:
   #   - git+https://github.com/danreeves/wagtailgmaps
